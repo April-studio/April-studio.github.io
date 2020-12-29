@@ -33,3 +33,4 @@ indexexchange.com, 191086, RESELLER
 pubmatic.com, 158862, RESELLER, 5d62403b186f2ace
 google.com, pub-7875398086258297, DIRECT, f08c47fec0942fa0
 google.com, pub-2370756595337160, DIRECT, f08c47fec0942fa0
+google.com, pub-6288663970000462, DIRECT, f08c47fec0942fa0
