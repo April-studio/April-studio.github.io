@@ -33,3 +33,48 @@ indexexchange.com, 191086, RESELLER
 pubmatic.com, 158862, RESELLER, 5d62403b186f2ace
 google.com, pub-2370756595337160, DIRECT, f08c47fec0942fa0
 google.com, pub-6288663970000462, DIRECT, f08c47fec0942fa0
+algorix.co, 60251, DIRECT, 5b394c12fea27a1d
+openx.com, 540838151, RESELLER, 6a698e2ec38604c6
+rubiconproject.com, 20050, RESELLER, 0bfd66d529a55807
+inmobi.com, 22e5354e453f49348325184e25464adb, RESELLER, 83e75a7ae333ca9d
+smartadserver.com, 3817, RESELLER
+smartadserver.com, 3896, RESELLER
+pubnative.net, 1007262, RESELLER, d641df8625486a7b
+olaex.biz,100039, RESELLER
+indexexchange.com, 193747, RESELLER, 50b1c356f2c5c8fc
+kubient.com, 5e2cb089c866, RESELLER, 4f12311e6ed900a3
+inmobi.com, c157a012a0394aa492a824f9d32dd9c8, RESELLER, 83e75a7ae333ca9d
+pubmatic.com, 158271, RESELLER, 5d62403b186f2ace
+rhythmone.com, 4268206200, RESELLER, a670c89d4a324e47
+video.unrulymedia.com, 4268206200, RESELLER
+Pubmatic.com, 158565, RESELLER, 5d62403b186f2ace
+triplelift.com, 10522, RESELLER, 6c33edb13117fd86
+smaato.com, 1100042823, RESELLER, 07bcf65f187117b4
+smaato.com, 1100004890, RESELLER, 07bcf65f187117b4
+indexexchange.com, 192806, RESELLER, 50b1c356f2c5c8fc
+video.unrulymedia.com, 123476257, RESELLER
+rhythmone.com, 123476257, RESELLER, a670c89d4a324e47
+opera.com, pub4261820774272, RESELLER
+Peak226.com, 12900, RESELLER
+Peak226.com, 12901, RESELLER
+engagebdr.com, 10423, RESELLER
+adxchange.mobi, 5a0a8d, RESELLER
+bidmachine.io, 35, RESELLER
+admixer.net, a80e4ca1-f52f-4aa5-98e1-010c8d08251b, RESELLER
+e-planning.net, 6dd3463134c6ef9b,RESELLER, c1ba615865ed87b2
+brightcom.com, 15800, RESELLER
+Eskimi.com, eas-2020000003, RESELLER
+webeyemob.com, 70093, RESELLER
+onetag.com, 5a02ff98ba6be67, RESELLER
+advertising.com, 28246, RESELLER
+gothamads.com, 399, RESELLER, d9c86e5dec870222
+mobuppsrtb.com, 68264bdb65b97eeae6788aa3348e553c, RESELLER
+smartyads.com, 897, fd2bde0ff2e62c5d, RESELLER
+decenterads.com, 203, RESELLER
+mman.kr,32032,RESELLER
+improvedigital.com, 1849, RESELLER
+tpmn.io, 415, RESELLER
+gamoshi.io, 267-b4627, RESELLER
+bold-win.com, 45325, RESELLER
+appnexus.com, 12622, RESELLER
+aps.amazon.com,d01b77a1-eb2e-40f1-8c68-14ae1eb1dcd9, RESELLER
